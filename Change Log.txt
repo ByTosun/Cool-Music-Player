@@ -1,0 +1,18 @@
+---CMP V 1.1 24.02.2023
+
+--Replaced The Permission To Manage İnternal Storage With Permission To Read All Music Files. (Api 33)
+--Permıssıon To Send Notıfıcatıon Added.
+--Glide Library Replaced With Picasso
+
+---CMP V 1.2 05.03.2023
+
+---Fixed "service initialization not accepted" error at api level 32
+---Sound focus has been renewed with new codes
+---Added close button to notification
+---Added banner ad support
+
+---CMP V 1.3 12.03.2023
+
+---Added fast scrolling feature
+---Added feature to refresh playlist
+---Added missing "com.google.android.gms.permission.AD_ID" permission
